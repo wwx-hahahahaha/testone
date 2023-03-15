@@ -1,0 +1,92 @@
+body {
+    background: #282c34;
+}
+
+.login {
+    border: 1px solid black;
+    height: 500px;
+    width: 60%;
+    margin: 100px auto;
+    background: url(../images/san.jpg) no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    border-radius: 10px;
+}
+
+.login_left,
+.login_right {
+    float: left;
+    height: 100%;
+}
+
+.login_left {
+    width: 400px;
+}
+
+.login_right {
+    width: 399px;
+}
+
+.login_right_top {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.login_right_top img {
+    height: 50px;
+    width: 50px;
+}
+
+.login_right_center {
+    margin-top: 96px;
+    text-align: center;
+}
+
+.put {
+    width: 290px;
+    height: 40px;
+    background: #fff;
+    border-radius: 4px;
+    border: 1px solid #ededed;
+    margin-bottom: 20px;
+    padding-left: 12px;
+    font-size: 14px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+}
+
+.login_right_footer {
+    height: 200px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.btn {
+    align-self: center;
+    width: 290px;
+    height: 44px;
+    background: linear-gradient(132deg, #ff6759, #ff4338);
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: PingFangSC-Semibold, PingFang SC;
+    font-weight: 600;
+    color: #fff;
+    line-height: 30px;
+    margin-bottom: 8px;
+    border: 1px solid #ff4338;
+    cursor: pointer;
+    -o-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+h1{
+    position: relative;
+    /* position: absolute; */
+    right: 120px;
+    top: 50px;
+    font-size: 50px;
+}
+.admin{
+    color: rgb(176, 168, 116);
+}

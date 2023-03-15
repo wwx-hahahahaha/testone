@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+em,i{
+    font-style: normal;
+}
+li{
+    list-style: none;
+}
+img{
+    border: 0;
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: burlywood;
+}
+input{
+    border: 0;
+    outline: none;
+}

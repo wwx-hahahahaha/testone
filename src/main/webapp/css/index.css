@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    /* background:url(../image/背景图.png) */
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.big{
+    width: 92% !important;
+    margin-top: 30px;
+}
+.top{
+    width: 95%;
+    height: 70px;
+    margin: 0 auto;
+
+}
+.top-left img{
+    margin-top: 6px;
+    margin-left: 20px;
+    width: 150px;
+}
+.top-right{
+    text-align: center;
+    line-height: 65px;
+}
+.top-right a{
+    text-decoration: none;
+    color: rgb(123, 123, 123);
+    font-size: 15px;
+}
+.top-right a:hover{
+    color: black;
+    font-weight: 700;
+}
+.nav{
+    height: 300px;
+}
+.nav ul{
+    height: 100%;
+}
+.nav ul li{
+    text-align: center;
+    line-height: 50px;
+    height: 20%;
+    border: 1px solid black;
+    background:#dddddd;
+}
+.nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+.nav ul li a:hover{
+    font-weight: 900;
+}
+.center{
+    height: 1300px;
+    text-align: center;
+    /* background: url(../image/logo.png) no-repeat; */
+}
+.footer{
+    text-align: center;
+    width: 80%;
+    margin-top: 590px;
+}
+.footer dl dd{
+    font-size: 10px;
+    margin-top: 7px;
+}
+.centers{
+    width: 100%;
+}
+.centers_top{
+    text-align: center;
+    margin-top: 250px;
+}
+
+.baoz{
+    text-align: left;
+    width: 95%;
+    height: 230px;
+    border-radius: 15px;
+    margin: 30px auto;
+}
+.feature-card img{
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 23px;
+}
+.he{
+    height: 100%;
+}
+.title{
+    font-size: 25px;
+    margin-top: 13px;
+    margin-left: 23px;
+
+}
+.feature-card{
+    border: 1px solid #e7e7e7;
+    border-radius: 12px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.centers_cen{
+    position: relative;
+}
+
+.cen_list{
+    height: 800px;
+    margin-top: 15px;
+}
+.cen_list_nav{
+    width: 360px;
+    height: 50px;
+    margin: 0 auto;
+    line-height: 50px;
+}
+.cen_list_box{
+    width: 100%;
+    height: 600px;
+}
+.logo img{
+    width: 1005px;
+}
+.logo{
+    position: absolute;
+    display: none;
+}
+.one{
+    border: 1px solid white;
+    text-align: left;
+    width: 100%;
+    height: 300px;
+}
+.one img{
+    width: 200px;
+}
+.product-name{
+    height: 22px;
+    line-height: 22px;
+    font-size: 16px;
+    color: #666;
+    letter-spacing: 1px;
+    white-space: normal;
+    overflow: hidden;
+}
+.product-price{
+    margin-top: 8px;
+    font-size: 15px;
+    color: #333;
+    font-weight: bolder;
+}
+.bao{
+    display: none;
+}
+.peishi{
+    display: none;
+}
+.navs:hover{
+    background: rgb(125, 143, 160);
+}
+.centers_footer{
+    height: 400px;
+}
+.bjt{
+    width: 100%;
+    margin-top: 40px;
+}
+.bjt img{
+    width: 100%;
+}
