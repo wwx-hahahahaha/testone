@@ -7,6 +7,7 @@ public class dorm_admin {
     private String name;
     private String gender;
     private String telephone;
+    private String ss;
 
 
     public dorm_admin() {
